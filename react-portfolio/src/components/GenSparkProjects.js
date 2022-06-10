@@ -1,7 +1,7 @@
 import React, { Component } from "react"
 import Section from "./Section"
 import ProjectComponent from "./ProjectComponent"
-import GenSparkProjectInfo from "../project_info"
+import GenSparkProjectInfo from "../coursework-info/project_info"
 import "../styles/GenSparkProjects.css"
 
 class GenSparkProjects extends Component {

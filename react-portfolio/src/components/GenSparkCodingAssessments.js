@@ -1,6 +1,6 @@
 import React, { Component } from "react"
 import CodingAssessmentComponent from "./CodingAssessmentComponent"
-import GenSparkCodingAssessmentInfo from "../coding_assessment_info"
+import GenSparkCodingAssessmentInfo from "../coursework-info/coding_assessment_info"
 import Section from "./Section"
 import "../styles/GenSparkCodingAssessments.css"
 
