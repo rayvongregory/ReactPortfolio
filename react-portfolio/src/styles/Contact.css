@@ -1,0 +1,13 @@
+.contact-block {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    line-height: 1.75;
+    margin: auto auto 40px;
+    font-size: 1.125rem;
+    font-family: "Montserrat", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.contact-block > * {
+    width: fit-content;
+}
