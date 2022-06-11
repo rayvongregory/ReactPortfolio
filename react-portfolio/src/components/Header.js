@@ -9,7 +9,7 @@ class Header extends Component {
 
   render() {
     return (
-      <header last-updated="Last updated: June 9, 2022">Rayvon Gregory</header>
+      <header last-updated="Last updated: June 10, 2022">Rayvon Gregory</header>
     )
   }
 }

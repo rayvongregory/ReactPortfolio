@@ -17,7 +17,7 @@ h2 {
     font-family: "Lora", Verdana, Geneva, Tahoma, sans-serif;
     color: var(--dark);
     background-color: var(--neutral);
-    border: 2px solid var(--deep-red)
+    border: 2px solid var(--green)
 }
 
 
@@ -29,7 +29,7 @@ h2::after {
     transform: translateY(-50%);
     width: 100%;
     height: 2px;
-    background-color: var(--deep-red);
+    background-color: var(--green);
     z-index: -1;
 }
 

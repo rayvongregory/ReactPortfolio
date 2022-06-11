@@ -5,6 +5,7 @@ class CodingAssessmentComponent extends Component {
     super(props)
     this.state = {}
   }
+
   render() {
     return <div className="iframe-container">{this.props.iframe_code}</div>
   }
